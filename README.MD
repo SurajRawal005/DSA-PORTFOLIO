@@ -1,0 +1,7 @@
+# Portfolio Project
+
+This is my basic portfolio webpage built with HTML and CSS, planned to be extended with JavaScript, React, Node, Express, and MongoDB.
+
+
+## 📸 Project Preview
+![Project Screenshot](assests/screenshots/screenshot1.png)
